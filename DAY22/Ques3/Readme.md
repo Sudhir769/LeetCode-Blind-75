@@ -10,7 +10,6 @@ You have the following three operations permitted on a word:
 Insert a character
 Delete a character
 Replace a character
- 
 
 Example 1:
 

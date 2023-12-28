@@ -11,7 +11,6 @@ Note:
 
 You may not engage in multiple transactions simultaneously (i.e., you must sell the stock before you buy again).
 The transaction fee is only charged once for each stock purchase and sale.
- 
 
 Example 1:
 
